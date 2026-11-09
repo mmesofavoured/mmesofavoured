@@ -13,8 +13,8 @@ I'm a passionate **[Full Stack Developer]** with experience in **Html, Css, Java
 
 ## Get in Touch 📬
 
-- **Personal Website**(on-going development)
-- **LinkedIn**(www.linkedin.com/in/nnamdi-mmesoma-favour-126a01293)
-- **Facebook**(https://web.facebook.com/profile.php?id=100081011513014)
+- *Personal Website*(on-going development)
+- *LinkedIn*(www.linkedin.com/in/nnamdi-mmesoma-favour-126a01293)
+- *Facebook*(https://web.facebook.com/profile.php?id=100081011513014)
 
 
